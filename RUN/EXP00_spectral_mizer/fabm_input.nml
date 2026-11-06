@@ -54,11 +54,11 @@
 /
 &variable
    name='N3_flux/flux'
-   sn=         'fluxes/Ndep',          -12,         'N3_flux',     .false.,   .false.,   'yearly',     '',         '',        ''
+   sn=         'fluxes/Ndep',          -1,         'N3_flux',     .false.,   .false.,   'yearly',     '',         '',        ''
 /
 &variable
    name='N4_flux/flux'
-   sn=         'fluxes/Ndep',          -12,         'N4_flux',     .false.,   .false.,   'yearly',     '',         '',        ''
+   sn=         'fluxes/Ndep',          -1,         'N4_flux',     .false.,   .false.,   'yearly',     '',         '',        ''
 /
 &riverdata
    name='N3_n'
